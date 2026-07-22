@@ -6,11 +6,11 @@
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=jlcross-dev&style=for-the-badge&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/jlcross-dev?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/jlcross-dev?style=for-the-badge"/>
 
 </p>
 
@@ -57,15 +57,15 @@ I enjoy building backend systems, developer tools, automation pipelines, Linux u
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jlcross-dev&theme=tokyonight&hide_border=true&show_icons=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcross-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jlcross-dev&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -75,7 +75,7 @@ I enjoy building backend systems, developer tools, automation pipelines, Linux u
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jlcross-dev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -85,7 +85,7 @@ I enjoy building backend systems, developer tools, automation pipelines, Linux u
 
 <p align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/jlcross-dev/jlcross-dev/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -106,7 +106,7 @@ I enjoy building backend systems, developer tools, automation pipelines, Linux u
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jlcross-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
